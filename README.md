@@ -8,6 +8,9 @@ To run the source code, please first change filepath to your local path of the d
 
 The source code produces the results in the friend_group_contrast and dist_change_contrast, corresponding to the main analyses outlined in our manuscript, within the derivatives folder. They are analogous to the output generated for the results reported in our manuscript, except that they are based on the simulated dataset. 
 
+The source_data.csv includes the source data at the dyad level (specifically, the inter-subject correlation and social distance data that we generated in this study, as well as dyadic similarities in demographic variables and dyadic similarities in ratings of enjoyment of and interest in the stimuli).
+
+
 ---
 Copyright 2024 Yixuan Shen
 
