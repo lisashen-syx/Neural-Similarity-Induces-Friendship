@@ -1,5 +1,5 @@
 # Neural-Similarity-Induces-Friendship
-
+ 
 To comply with the guidelines outlined in the Journal’s Code and Software Submission Checklist, a small, simulated dataset (with 10 subjects and timeseries across 100 TRs in 5 brain regions) is provided to demo the code. The source code uses the simulated dataset that is in the same format as the dataset used for the main analyses of the paper.
 
 Python version 3.9.7 on a Mac OS Sonoma 14.4.1 were used to write and run the source code. On a 2021 MacBook M1 Pro with 16GB of RAM, it takes about 5 minutes to run through the code with this simulated dataset.
